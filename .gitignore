@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# Editors/IDEs
+.vscode/
+.idea/
