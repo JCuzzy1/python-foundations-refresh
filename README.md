@@ -19,11 +19,10 @@ Each folder represents one week of progress:
 
 | Folder | Focus | Highlights |
 |--------|--------|-------------|
-| `week1_basics/` | Variables, expressions, print | “Hello World”, simple maths |
-| `week2_conditionals/` | Logic & decisions | `if` / `else` practice |
-| `week3_loops/` | Loops & iteration | For / While examples |
+| `week1-2_basics_variables/` | Variables, expressions, print | “Hello World”, simple maths | Inputs, convert strings to floats
+| `week3_conditionals/` | Logic & decisions | `if` / `else` practice |
 | `week4_functions/` | Reusable code | Calculator, mini utilities |
-| `week5_files/` | File handling | Read/write text, logs |
+| `week5_loops/` | Loops & iteration | For / While examples |
 | `week6_project/` | Final project | Simple Expense Tracker |
 
 ---
