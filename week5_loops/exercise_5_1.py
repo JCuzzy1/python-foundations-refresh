@@ -8,12 +8,12 @@ tot = 0.0 # running total
 while True :
     sval = input("Enter a number: ")
     if sval == "done" :
-        break
+        break # skips out of the loop
     try:
         fval = float(sval)
     except:
         print("Invalid input")
-        continue    
+        continue    # skips back to the beginning of the loop
     # print(fval)
     num = num + 1
     tot = tot + fval
