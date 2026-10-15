@@ -49,3 +49,14 @@ Each folder represents one week of progress:
 **Author:** Joseph Cousins.  
 **Background:** 20+ years in B2B Marketing, transitioning into AI-driven automation and development.  
 **Goal:** Combine marketing strategy with AI development to create intelligent automation workflows.
+
+## Development Environment
+
+Development environment rebuilt in October 2026.
+
+- Python 3.14
+- Visual Studio Code
+- Git and GitHub
+- Windows 11
+
+Continuing the transition from Python foundations to Data Science and AI development.
